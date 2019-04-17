@@ -4,7 +4,8 @@ This is official implimentation of the paper   [Deep-CNN based Multi-task Learni
 
 # Installation
 1. Install pytorch
-2. Clone this repository
+2. Install Matlab
+3. Clone this repository
   ```Shell
   git clone https://github.com/otkupjnoz/mlosr.git
   ```
