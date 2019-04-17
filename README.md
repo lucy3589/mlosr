@@ -1,6 +1,6 @@
 # Deep-CNN based Multi-task Learning for Open-Set Recognition
 
-This is official implimentation of the paper ["Deep-CNN based Multi-task Learning for Open-Set Recognition"](https://arxiv.org/pdf/1903.03161.pdf)
+This is official implimentation of the paper   [Deep-CNN based Multi-task Learning for Open-Set Recognition](https://arxiv.org/pdf/1903.03161.pdf)
 
 # Installation
 1. Install pytorch
