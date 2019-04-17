@@ -11,7 +11,9 @@ This is official implimentation of the paper   [Deep-CNN based Multi-task Learni
 
 # Data Setup
 1. You can download the ood sets in mat format from here, 
+
 https://livejohnshopkins-my.sharepoint.com/:u:/g/personal/poza2_jh_edu/EeJ1RQQm425MsuFGfV5JO58BMU5Q9m2uzM_Nd3akC-MCLA?e=TXQtzR
+
 2. For open-set experiments convert your datasets in matfiles (or modify the code to create your own dataloader.)
 3. Make sure while saving in matlab you use '-v7.3'.
 4. Create train, test and validation and save it by name 
